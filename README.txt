@@ -1,0 +1,1 @@
+Put your photos here and name them photo-1.jpg, photo-2.jpg, photo-3.jpg, photo-4.jpg, photo-5.jpg, photo-6.jpg. You can also edit the filenames in index.html and script.js.
